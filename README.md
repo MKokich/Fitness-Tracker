@@ -9,3 +9,5 @@ This application allows a user to track their workouts by adding a new workout o
 Application is user ready and deploys efficiently on heroku.
 
 ## Screenshot
+
+![image](https://user-images.githubusercontent.com/75143471/120742088-238fa400-c4ab-11eb-895e-d6fc3bf38479.png)
