@@ -7,6 +7,7 @@ This application allows a user to track their workouts by adding a new workout o
 ## Installation
 
 Application is user ready and deploys efficiently on heroku.
+[Link](https://kokich-fitness-tracker.herokuapp.com/)
 
 ## Screenshot
 
